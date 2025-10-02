@@ -1,0 +1,7 @@
+.cardsTimes {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;     /* Centraliza verticalmente */
+    flex-direction: column;  /* Organiza os elementos na vertical */
+    text-align: center;      /* Opcional: Alinha o texto no centro */
+}
